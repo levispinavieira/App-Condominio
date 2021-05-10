@@ -805,7 +805,8 @@
       },
       "App.Domain/1.0.0": {
         "dependencies": {
-          "App.Shared": "1.0.0"
+          "App.Shared": "1.0.0",
+          "FluentValidation": "10.1.0"
         },
         "runtime": {
           "App.Domain.dll": {}

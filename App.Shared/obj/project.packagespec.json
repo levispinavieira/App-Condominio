@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Shared\\App.Shared.csproj",
+    "projectUniqueName": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Shared\\App.Shared.csproj",
     "projectName": "App.Shared",
-    "projectPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Shared\\App.Shared.csproj",
-    "outputPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Shared\\obj\\",
+    "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Shared\\App.Shared.csproj",
+    "outputPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Shared\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Microsoft\\Xamarin\\NuGet",

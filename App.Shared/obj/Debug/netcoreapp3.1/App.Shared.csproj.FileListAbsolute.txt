@@ -7,3 +7,12 @@ C:\Users\levis\RiderProjects\App.Condominio\App.Shared\obj\Debug\netcoreapp3.1\A
 C:\Users\levis\RiderProjects\App.Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.csproj.CoreCompileInputs.cache
 C:\Users\levis\RiderProjects\App.Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.dll
 C:\Users\levis\RiderProjects\App.Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\bin\Debug\netcoreapp3.1\App.Shared.deps.json
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\bin\Debug\netcoreapp3.1\App.Shared.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\bin\Debug\netcoreapp3.1\App.Shared.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.csprojAssemblyReference.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.AssemblyInfoInputs.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.AssemblyInfo.cs
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.csproj.CoreCompileInputs.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Shared\obj\Debug\netcoreapp3.1\App.Shared.pdb

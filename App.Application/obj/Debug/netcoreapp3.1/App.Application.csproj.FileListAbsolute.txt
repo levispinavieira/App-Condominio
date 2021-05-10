@@ -18,3 +18,21 @@ C:\Users\levis\RiderProjects\App.Condominio\App.Application\bin\Debug\netcoreapp
 C:\Users\levis\RiderProjects\App.Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Shared.pdb
 C:\Users\levis\RiderProjects\App.Condominio\App.Application\bin\Debug\netcoreapp3.1\FluentValidation.xml
 C:\Users\levis\RiderProjects\App.Condominio\App.Application\obj\Debug\netcoreapp3.1\App.Application.csproj.CopyComplete
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Application.deps.json
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Application.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Application.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Infra.Bus.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Infra.Data.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Shared.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Infra.Bus.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Infra.Data.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\bin\Debug\netcoreapp3.1\App.Shared.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\obj\Debug\netcoreapp3.1\App.Application.csprojAssemblyReference.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\obj\Debug\netcoreapp3.1\App.Application.AssemblyInfoInputs.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\obj\Debug\netcoreapp3.1\App.Application.AssemblyInfo.cs
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\obj\Debug\netcoreapp3.1\App.Application.csproj.CoreCompileInputs.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\obj\Debug\netcoreapp3.1\App.Application.csproj.CopyComplete
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\obj\Debug\netcoreapp3.1\App.Application.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Application\obj\Debug\netcoreapp3.1\App.Application.pdb

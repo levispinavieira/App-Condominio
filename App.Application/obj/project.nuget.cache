@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "nqvwIjeHDf0DHNBaoTeg2mEz6uFt1UDbXeq5T3l6Qok+v+iPKNPU7m4VcuIFiefw8LWjPk+31zWnDw39jHU39Q==",
+  "dgSpecHash": "06ND/JGvO/hpugPIDLRHpBZANo8pMYUo/AhXVX2X6XpWAKmKSaOcG6HeACoNwNEdIc6a2Obg0FVku6INxJJS6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Application\\App.Application.csproj",
+  "projectFilePath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Application\\App.Application.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\levis\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\levis\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\levis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",
     "C:\\Users\\levis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.5\\microsoft.aspnetcore.cryptography.keyderivation.5.0.5.nupkg.sha512",

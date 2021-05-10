@@ -469,7 +469,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "App.Shared": "1.0.0"
+          "App.Shared": "1.0.0",
+          "FluentValidation": "10.1.0"
         },
         "compile": {
           "bin/placeholder/App.Domain.dll": {}
@@ -1436,11 +1437,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Api\\App.Api.csproj",
+      "projectUniqueName": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Api\\App.Api.csproj",
       "projectName": "App.Api",
-      "projectPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Api\\App.Api.csproj",
+      "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Api\\App.Api.csproj",
       "packagesPath": "C:\\Users\\levis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Api\\obj\\",
+      "outputPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet",
@@ -1461,11 +1462,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Application\\App.Application.csproj": {
-              "projectPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Application\\App.Application.csproj"
+            "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Application\\App.Application.csproj": {
+              "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Application\\App.Application.csproj"
             },
-            "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Infra.Ioc\\App.Infra.Ioc.csproj": {
-              "projectPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Infra.Ioc\\App.Infra.Ioc.csproj"
+            "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Ioc\\App.Infra.Ioc.csproj": {
+              "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Ioc\\App.Infra.Ioc.csproj"
             }
           }
         }

@@ -20,3 +20,23 @@ C:\Users\levis\RiderProjects\App.Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.
 C:\Users\levis\RiderProjects\App.Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.csproj.CopyComplete
 C:\Users\levis\RiderProjects\App.Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.dll
 C:\Users\levis\RiderProjects\App.Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Infra.Ioc.deps.json
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Infra.Ioc.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Infra.Ioc.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Application.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Infra.Bus.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Infra.Data.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Shared.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Application.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Infra.Bus.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Infra.Data.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\bin\Debug\netcoreapp3.1\App.Shared.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.csprojAssemblyReference.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.AssemblyInfoInputs.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.AssemblyInfo.cs
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.csproj.CopyComplete
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Ioc\obj\Debug\netcoreapp3.1\App.Infra.Ioc.pdb

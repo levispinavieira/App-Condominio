@@ -12,3 +12,15 @@ C:\Users\levis\RiderProjects\App.Condominio\App.Domain\obj\Debug\netcoreapp3.1\A
 C:\Users\levis\RiderProjects\App.Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csproj.CopyComplete
 C:\Users\levis\RiderProjects\App.Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.dll
 C:\Users\levis\RiderProjects\App.Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.deps.json
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\bin\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\bin\Debug\netcoreapp3.1\App.Shared.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\bin\Debug\netcoreapp3.1\App.Shared.pdb
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csprojAssemblyReference.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfoInputs.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.AssemblyInfo.cs
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csproj.CoreCompileInputs.cache
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.csproj.CopyComplete
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Domain\obj\Debug\netcoreapp3.1\App.Domain.pdb

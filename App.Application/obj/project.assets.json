@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
+      "FluentValidation/10.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/FluentValidation.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/FluentValidation.dll": {}
+        }
+      },
       "MediatR/9.0.0": {
         "type": "package",
         "compile": {
@@ -323,7 +332,8 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
         "dependencies": {
-          "App.Shared": "1.0.0"
+          "App.Shared": "1.0.0",
+          "FluentValidation": "10.1.0"
         },
         "compile": {
           "bin/placeholder/App.Domain.dll": {}
@@ -376,6 +386,24 @@
     }
   },
   "libraries": {
+    "FluentValidation/10.1.0": {
+      "sha512": "RxhhfY9IcEY2qUMYjoUxegInbuE5Bwll7dVLsXpiJf25g0ztmzUK+HHqtPcub1caPemhMJsC+NwjHei+NgAkvA==",
+      "type": "package",
+      "path": "fluentvalidation/10.1.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "fluent-validation-icon.png",
+        "fluentvalidation.10.1.0.nupkg.sha512",
+        "fluentvalidation.nuspec",
+        "lib/net5.0/FluentValidation.dll",
+        "lib/net5.0/FluentValidation.xml",
+        "lib/netstandard2.0/FluentValidation.dll",
+        "lib/netstandard2.0/FluentValidation.xml",
+        "lib/netstandard2.1/FluentValidation.dll",
+        "lib/netstandard2.1/FluentValidation.xml"
+      ]
+    },
     "MediatR/9.0.0": {
       "sha512": "8b3UYNxegHVYcJMG2zH8wn+YqxLvXG+eMfj0cMCq/jTW72p6O3PCKMkrIv0mqyxdW7bA4gblsocw7n+/9Akg5g==",
       "type": "package",
@@ -1006,11 +1034,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Application\\App.Application.csproj",
+      "projectUniqueName": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Application\\App.Application.csproj",
       "projectName": "App.Application",
-      "projectPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Application\\App.Application.csproj",
+      "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Application\\App.Application.csproj",
       "packagesPath": "C:\\Users\\levis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Application\\obj\\",
+      "outputPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet",
@@ -1031,14 +1059,14 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Domain\\App.Domain.csproj": {
-              "projectPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Domain\\App.Domain.csproj"
+            "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Domain\\App.Domain.csproj": {
+              "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Domain\\App.Domain.csproj"
             },
-            "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj": {
-              "projectPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj"
+            "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj": {
+              "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj"
             },
-            "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Infra.Data\\App.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Infra.Data\\App.Infra.Data.csproj"
+            "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Data\\App.Infra.Data.csproj": {
+              "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Data\\App.Infra.Data.csproj"
             }
           }
         }

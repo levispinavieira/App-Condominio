@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8lVQPPr9z+gca4ZhHkWbrTZDovWvuKqeBjlpnAQcyzfxpthyGJnbN8m0spsW8ddLvkkqEydXKcKn0UU23ceywA==",
+  "dgSpecHash": "ebohPWA+2CE8BL8SpXiNdTqiLm79tjL9f2glm3vHDlLTUiFTzpNbVpcTkQnCa+KUm0kA/vMYHUiR9tayQeGPTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Infra.Data\\App.Infra.Data.csproj",
+  "projectFilePath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Data\\App.Infra.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\levis\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\levis\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\levis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\5.0.5\\microsoft.aspnetcore.cryptography.internal.5.0.5.nupkg.sha512",
     "C:\\Users\\levis\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\5.0.5\\microsoft.aspnetcore.cryptography.keyderivation.5.0.5.nupkg.sha512",
