@@ -5,6 +5,8 @@
 - .Net Core instalado no seu ambiente de desenvolvimento;
 - Ef Core Tools, através do comando: `dotnet tool install --global dotnet-ef`
 
+Na classe DbAppContext metodo ConfigureDbContext, mudar o host do banco para qual host se encotra seu banco de dados
+
 Vamos criar as migrações (initial) do banco de dados
 
 dotnet ef migrations add Initial --output-dir Migrations/PgSql --project App.Infra.Data --context DbAppContext
