@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3Ww00Cks6a91NalG7igiAMgTDr+U9xqYyuiQPivnwKcixFCn6I4wtttDHnIybCRHDLmCpFjyEHPNhwCSKPEOGg==",
+  "dgSpecHash": "YG0KKmIvT6dff80L9ilRJUspgrz0JOwciy9RjsQBj+s8A/PBd0B7+QkPXGno+UtUspDbCV1PZyCH+NWN64RJNg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Ioc\\App.Infra.Ioc.csproj",
+  "projectFilePath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Ioc\\App.Infra.Ioc.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levis\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\levis\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",

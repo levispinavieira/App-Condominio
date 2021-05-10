@@ -16,3 +16,12 @@ C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Bus\obj\Debug\netcore
 C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.csproj.CoreCompileInputs.cache
 C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.dll
 C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.pdb
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\bin\Debug\netcoreapp3.1\App.Infra.Bus.deps.json
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\bin\Debug\netcoreapp3.1\App.Infra.Bus.dll
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\bin\Debug\netcoreapp3.1\App.Infra.Bus.pdb
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.AssemblyInfo.cs
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.csproj.CoreCompileInputs.cache
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.dll
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Bus\obj\Debug\netcoreapp3.1\App.Infra.Bus.pdb

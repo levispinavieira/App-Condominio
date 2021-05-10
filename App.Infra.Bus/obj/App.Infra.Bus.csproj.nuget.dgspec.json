@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj": {}
+    "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj": {}
   },
   "projects": {
-    "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj": {
+    "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj",
+        "projectUniqueName": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj",
         "projectName": "App.Infra.Bus",
-        "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj",
+        "projectPath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj",
         "packagesPath": "C:\\Users\\levis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Bus\\obj\\",
+        "outputPath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Bus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet",

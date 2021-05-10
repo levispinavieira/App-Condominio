@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fCOgdcP3hkNVlghc7zvX4oXhRrFvuaO+jJ8yjxFEm6rlX150lvIZcv93t3riFGlUnSAEeC4IaG2NgsT1T/5QFw==",
+  "dgSpecHash": "fEzATuky/4sKgJPziAD+i0O0r0+oGaZT1KaM1cEdsO0Pg5wjFPzICJ7dSF+Pws+0EEaO7P13pahnROYnkhIKSQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj",
+  "projectFilePath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levis\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
   ],

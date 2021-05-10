@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Users\levis\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\levis\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_App.Condominio.-1712567330.00" t="ExcludeRecursive" />
+    <e p="C:\Users\levis\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_App.Condominio.-1498829553.00" t="ExcludeRecursive" />
     <e p="C:\Users\levis\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
-    <e p="C:\Users\levis\Desktop\Nova pasta\App-Condominio" t="IncludeFlat">
+    <e p="C:\Users\levis\Desktop\tudo\App-Condominio" t="IncludeFlat">
       <e p="App.Api" t="IncludeRecursive">
         <e p="App.Api.csproj" t="IncludeRecursive" />
         <e p="appsettings.Development.json" t="Include" />

@@ -34,3 +34,20 @@ C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Data\obj\Debug\netcor
 C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.dll
 C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.pdb
 C:\Users\levis\Desktop\Nova pasta\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.genruntimeconfig.cache
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Infra.Data.deps.json
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Infra.Data.runtimeconfig.json
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Infra.Data.runtimeconfig.dev.json
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Infra.Data.dll
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Infra.Data.pdb
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Domain.dll
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Shared.dll
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Domain.pdb
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\bin\Debug\netcoreapp3.1\App.Shared.pdb
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.csprojAssemblyReference.cache
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.AssemblyInfo.cs
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.csproj.CopyComplete
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.dll
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.pdb
+C:\Users\levis\Desktop\tudo\App-Condominio\App.Infra.Data\obj\Debug\netcoreapp3.1\App.Infra.Data.genruntimeconfig.cache

@@ -1104,11 +1104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Data\\App.Infra.Data.csproj",
+      "projectUniqueName": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Data\\App.Infra.Data.csproj",
       "projectName": "App.Infra.Data",
-      "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Data\\App.Infra.Data.csproj",
+      "projectPath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Data\\App.Infra.Data.csproj",
       "packagesPath": "C:\\Users\\levis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Infra.Data\\obj\\",
+      "outputPath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Infra.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet",
@@ -1129,8 +1129,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Domain\\App.Domain.csproj": {
-              "projectPath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Domain\\App.Domain.csproj"
+            "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Domain\\App.Domain.csproj": {
+              "projectPath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Domain\\App.Domain.csproj"
             }
           }
         }

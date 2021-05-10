@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z0Xf8T7G5tddKAYMEJuUeB1aEgZ8DXAAGsfMqOJVXna1gQhv5G8KsciXW49d/MhwF4TYMQaUXpajLfncstMiHA==",
+  "dgSpecHash": "2d5mfO2wQEG1nkHqrjmniqM8UpBJLgqE0bZKR6jL00/hn6NstvAg6kRfJJx1LTzeEIHyTntu5n/fUOkZ3JGNaQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Domain\\App.Domain.csproj",
+  "projectFilePath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Domain\\App.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levis\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512"
   ],

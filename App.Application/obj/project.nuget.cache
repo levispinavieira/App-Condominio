@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "06ND/JGvO/hpugPIDLRHpBZANo8pMYUo/AhXVX2X6XpWAKmKSaOcG6HeACoNwNEdIc6a2Obg0FVku6INxJJS6Q==",
+  "dgSpecHash": "NISiDJqtrGhIq5iBfqdYCbHocvbkgrZCtsSTsHxoQyMGPbUSTBVx6r590suAcGbyIqM11oCrCQgeJAapiwr6GA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\levis\\Desktop\\Nova pasta\\App-Condominio\\App.Application\\App.Application.csproj",
+  "projectFilePath": "C:\\Users\\levis\\Desktop\\tudo\\App-Condominio\\App.Application\\App.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\levis\\.nuget\\packages\\fluentvalidation\\10.1.0\\fluentvalidation.10.1.0.nupkg.sha512",
     "C:\\Users\\levis\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
