@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\levis\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\levis\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_App.Condominio.-1642135104.00" t="ExcludeRecursive" />
+    <e p="C:\Users\levis\AppData\Roaming\JetBrains\Rider2020.2\scratches" t="IncludeRecursive" />
+    <e p="C:\Users\levis\RiderProjects\App.Condominio" t="IncludeFlat">
+      <e p="App.Api" t="IncludeRecursive">
+        <e p="App.Api.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ApartamentosController.cs" t="Include" />
+          <e p="ApiController.cs" t="Include" />
+          <e p="BlocosController.cs" t="Include" />
+          <e p="CondominiosController.cs" t="Include" />
+          <e p="PessoasController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="App.Application" t="IncludeRecursive">
+        <e p="Abstractions" t="Include">
+          <e p="BaseViewModel.cs" t="Include" />
+        </e>
+        <e p="Apartamentos" t="Include">
+          <e p="CommandHandlers" t="Include">
+            <e p="AtualizarApartamentoCommandHandler.cs" t="Include" />
+            <e p="CadastrarApartamentoCommandHandler.cs" t="Include" />
+            <e p="DeletarApartamentoCommandHandler.cs" t="Include" />
+          </e>
+          <e p="Commands" t="Include">
+            <e p="AtualizarApartamentoCommand.cs" t="Include" />
+            <e p="CadastrarApartamentoCommand.cs" t="Include" />
+            <e p="DeletarApartamentoCommand.cs" t="Include" />
+          </e>
+          <e p="Queries" t="Include">
+            <e p="ObterApartamentoPorIdQuery.cs" t="Include" />
+            <e p="ObterApartamentosPorBlocoIdQuery.cs" t="Include" />
+            <e p="ObterApartamentosQuery.cs" t="Include" />
+          </e>
+          <e p="QueryHandlers" t="Include">
+            <e p="ObterApartamentoPorIdQueryHandler.cs" t="Include" />
+            <e p="ObterApartamentosPorBlocoIdQueryHandler.cs" t="Include" />
+            <e p="ObterApartamentosQueryHandler.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="ApartamentoService.cs" t="Include" />
+          </e>
+          <e p="ViewModels" t="Include">
+            <e p="ApartamentoViewModel.cs" t="Include" />
+          </e>
+        </e>
+        <e p="App.Application.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Blocos" t="Include">
+          <e p="CommandHandlers" t="Include">
+            <e p="AtualizarBlocoCommandHandler.cs" t="Include" />
+            <e p="CadastrarBlocoCommandHandler.cs" t="Include" />
+            <e p="DeletarBlocoCommandHandler.cs" t="Include" />
+          </e>
+          <e p="Commands" t="Include">
+            <e p="AtualizarBlocoCommand.cs" t="Include" />
+            <e p="CadastrarBlocoCommand.cs" t="Include" />
+            <e p="DeletarBlocoCommand.cs" t="Include" />
+          </e>
+          <e p="Queries" t="Include">
+            <e p="ObterBlocoPorIdQuery.cs" t="Include" />
+            <e p="ObterBlocosPorCondominioIdQuery.cs" t="Include" />
+            <e p="ObterBlocosQuery.cs" t="Include" />
+          </e>
+          <e p="QueryHandlers" t="Include">
+            <e p="ObterBlocoPorIdQueryHandler.cs" t="Include" />
+            <e p="ObterBlocosPorCondominioIdQueryhandler.cs" t="Include" />
+            <e p="ObterBlocosQueryHandler.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="BlocoService.cs" t="Include" />
+          </e>
+          <e p="ViewModels" t="Include">
+            <e p="BlocoViewModel.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Condominios" t="Include">
+          <e p="CommandHandlers" t="Include">
+            <e p="AtualizarCondominioCommandHandler.cs" t="Include" />
+            <e p="CadastrarCondominioCommandHandler.cs" t="Include" />
+            <e p="DeletarCondominioCommandHandler.cs" t="Include" />
+          </e>
+          <e p="Commands" t="Include">
+            <e p="AtualizarCondominioCommand.cs" t="Include" />
+            <e p="CadastrarCondominioCommand.cs" t="Include" />
+            <e p="DeletarCondominioCommand.cs" t="Include" />
+          </e>
+          <e p="Queries" t="Include">
+            <e p="ObterCondominioPorIdQuery.cs" t="Include" />
+            <e p="ObterCondominiosQuery.cs" t="Include" />
+          </e>
+          <e p="QueryHandlers" t="Include">
+            <e p="ObterCondominioPorIdQueryHandler.cs" t="Include" />
+            <e p="ObterCondominiosQueryHandler.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="CondominioService.cs" t="Include" />
+          </e>
+          <e p="ViewModels" t="Include">
+            <e p="CondominioViewModel.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.Application.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pessoas" t="Include">
+          <e p="CommandHandlers" t="Include">
+            <e p="AtualizarPessoaCommandHandler.cs" t="Include" />
+            <e p="CadastrarPessoaCommandHandler.cs" t="Include" />
+            <e p="DeletarPessoaCommandHandler.cs" t="Include" />
+          </e>
+          <e p="Commands" t="Include">
+            <e p="AtualizarPessoaCommand.cs" t="Include" />
+            <e p="CadastrarPessoaCommand.cs" t="Include" />
+            <e p="DeletarPessoaCommand.cs" t="Include" />
+          </e>
+          <e p="Queries" t="Include">
+            <e p="ObterPessoaPorIdQuery.cs" t="Include" />
+            <e p="ObterPessoasPorApartamentoIdQuery.cs" t="Include" />
+            <e p="ObterPessoasQuery.cs" t="Include" />
+          </e>
+          <e p="QueryHandlers" t="Include">
+            <e p="ObterPessoaPorIdQueryHandler.cs" t="Include" />
+            <e p="ObterPessoasPorApartamentoIdQueryHandler.cs" t="Include" />
+            <e p="ObterPessoasQueryHandler.cs" t="Include" />
+          </e>
+          <e p="Services" t="Include">
+            <e p="PessoaService.cs" t="Include" />
+          </e>
+          <e p="ViewModels" t="Include">
+            <e p="PessoaViewModel.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="App.Condominio.sln" t="IncludeFlat" />
+      <e p="App.Domain" t="IncludeRecursive">
+        <e p="Abstractions" t="Include">
+          <e p="Entities" t="Include">
+            <e p="BaseEntity.cs" t="Include" />
+            <e p="Entity.cs" t="Include" />
+            <e p="ValidatableEntity.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Apartamentos" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Apartamento.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="iApartamentoPessoaRepository.cs" t="Include" />
+            <e p="IApartamentoPessoaService.cs" t="Include" />
+            <e p="IApartamentoRepository.cs" t="Include" />
+            <e p="IApartamentoService.cs" t="Include" />
+          </e>
+          <e p="Validators" t="Include">
+            <e p="ApartamentoValidator.cs" t="Include" />
+          </e>
+        </e>
+        <e p="App.Domain.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Blocos" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Bloco.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IBlocoRepository.cs" t="Include" />
+            <e p="IBlocoService.cs" t="Include" />
+          </e>
+          <e p="Validators" t="Include">
+            <e p="BlocoValidator.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Condominios" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Condominio.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="ICondominioRepository.cs" t="Include" />
+            <e p="ICondominioService.cs" t="Include" />
+          </e>
+          <e p="Validators" t="Include">
+            <e p="CondominioValidator.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.Domain.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Pessoas" t="Include">
+          <e p="Entities" t="Include">
+            <e p="Pessoa.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IPessoaRepository.cs" t="Include" />
+            <e p="IPessoaService.cs" t="Include" />
+          </e>
+          <e p="Validators" t="Include">
+            <e p="PessoaValidator.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="App.Infra.Bus" t="IncludeRecursive">
+        <e p="App.Infra.Bus.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Interfaces" t="Include">
+          <e p="ICommand.cs" t="Include" />
+          <e p="ICommandHandler.cs" t="Include" />
+          <e p="IQuery.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Command.cs" t="Include" />
+          <e p="CommandHandler.cs" t="Include" />
+          <e p="CommandResult.cs" t="Include" />
+          <e p="Query.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.Infra.Bus.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="App.Infra.Data" t="IncludeRecursive">
+        <e p="App.Infra.Data.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Contexts" t="Include">
+          <e p="ConfigureModelsExtension.cs" t="Include" />
+          <e p="DbAppContext.cs" t="Include" />
+        </e>
+        <e p="Interfaces" t="Include">
+          <e p="IDbAppContext.cs" t="Include" />
+        </e>
+        <e p="Mappings" t="Include">
+          <e p="Abstractions" t="Include">
+            <e p="BaseMap.cs" t="Include" />
+            <e p="EntityBaseMap.cs" t="Include" />
+          </e>
+          <e p="Apartamentos" t="Include">
+            <e p="ApartamentoMap.cs" t="Include" />
+          </e>
+          <e p="Blocos" t="Include">
+            <e p="BlocoMap.cs" t="Include" />
+          </e>
+          <e p="Condominios" t="Include">
+            <e p="CondominioMap.cs" t="Include" />
+          </e>
+          <e p="Pessoas" t="Include">
+            <e p="PessoaMap.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="PgSql" t="Include">
+            <e p="20210509195935_Initial.cs" t="Include" />
+            <e p="20210509195935_Initial.Designer.cs" t="Include" />
+            <e p="20210510023231_filtro.cs" t="Include" />
+            <e p="20210510023231_filtro.Designer.cs" t="Include" />
+            <e p="20210510023410_filtrocorreto.cs" t="Include" />
+            <e p="20210510023410_filtrocorreto.Designer.cs" t="Include" />
+            <e p="DbAppContextModelSnapshot.cs" t="Include" />
+          </e>
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.Infra.Data.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Repositorys" t="Include">
+          <e p="ApartamentoRepository.cs" t="Include" />
+          <e p="BlocoRepository.cs" t="Include" />
+          <e p="CondominioRepository.cs" t="Include" />
+          <e p="PessoaRepository.cs" t="Include" />
+          <e p="Repository.cs" t="Include" />
+        </e>
+        <e p="Uow" t="Include">
+          <e p="IUnitOfWork.cs" t="Include" />
+          <e p="UnitOfWork.cs" t="Include" />
+        </e>
+        <e p="Utils" t="Include">
+          <e p="TipoDados.cs" t="Include" />
+        </e>
+      </e>
+      <e p="App.Infra.Ioc" t="IncludeRecursive">
+        <e p="App.Infra.Ioc.csproj" t="IncludeRecursive" />
+        <e p="AppInjector.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Configurations" t="Include">
+          <e p="AppInfraIoCConfiguration.cs" t="Include" />
+        </e>
+        <e p="Injectors" t="Include">
+          <e p="ApartamentoInjector.cs" t="Include" />
+          <e p="BlocoInjector.cs" t="Include" />
+          <e p="CondominioInjector.cs" t="Include" />
+          <e p="PessoaInjector.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.Infra.Ioc.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="App.Shared" t="IncludeRecursive">
+        <e p="App.Shared.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="App.Shared.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Utils" t="Include">
+          <e p="ValidationUtils.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

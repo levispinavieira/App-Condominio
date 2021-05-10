@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zLeJNErQ2MuQymIiTFL+2YrWLMvsyncelKVKSWozFW2lYn6WqMX8NQTPOMqAbCthaehi+KnRRNR9dt3gqp1KxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\levis\\RiderProjects\\App.Condominio\\App.Infra.Bus\\App.Infra.Bus.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\levis\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
